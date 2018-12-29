@@ -21,8 +21,7 @@ how to contribute to bettering the system.
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#how-to-use">How To Install Locally</a> •
   <a href="#credits">Credits</a> 
 </p>
 
@@ -34,7 +33,7 @@ how to contribute to bettering the system.
 * Community
 * Get Involved
 
-## How To Use
+## How To Install Locally
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
@@ -54,10 +53,6 @@ $ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## Emailware
 
