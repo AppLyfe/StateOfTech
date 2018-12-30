@@ -1,0 +1,19 @@
+{
+  "name": "stateoftech",
+  "version": "1.0.0",
+  "description": "an application to host data visualization abot the current state of south florida tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppLyfe/StateOfTech.git"
+  },
+  "author": "fhern077",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AppLyfe/StateOfTech/issues"
+  },
+  "homepage": "https://github.com/AppLyfe/StateOfTech#readme"
+}

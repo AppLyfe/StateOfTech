@@ -22,7 +22,7 @@ how to contribute to bettering the system.
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-install-locally">How To Install Locally</a> •
-  <a href="#credits">Credits</a> 
+  <a href="#credits">Credits</a>
 </p>
 
 ## Key Features
@@ -58,8 +58,14 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 This software uses the following open source packages:
 - [Node.js](https://nodejs.org/)
 
-Team Members 
-- [Frank Hernandez](https://github.com/fhern077) 
+Inspiration / Sources
+- [2018 Software Development Report](https://codingsans.com/state-of-software-development-2018)
+- [Miami Statistics](https://www.beaconcouncil.com/data/economic-overview/business-growth/)
+- [Miami Salary Insights](https://insights.dice.com/2018/02/07/top-emerging-tech-hubs-2018/)
+- [Bureau of Labor Stats](https://www.bls.gov/oes/current/oes151132.htm#st)
+
+Team Members
+- [Frank Hernandez](https://github.com/fhern077)
 - [Alejandro Roman](https://github.com/fhern077)
 ---
 
